@@ -23,6 +23,7 @@
 * Create a package in _src/main/java_ as com.dbms.deleting and paste all file from deleting folder.
 * Create a package in _src/main/java_ as com.dbms.updating and paste all file from updating folder.
 * Create a package in _src/main/java_ as com.dbms.inserting and paste all file from inserting folder.
+* Copy the pom.xml into ` src->main->webapp->WEB_INF `
 
 ### Installation of JAR files
 
@@ -46,5 +47,10 @@ Download javax.mail jar <br>
 * Select **Class Path** and Select **Add external JARS** and add downloaded jar file and click _apply and close_<br> 
 
 * Copy all jar file into `src->main->webapp->WEB_INF->lib` folder .
+
+### Creating Database in Mysql Workbench
+* Open model dbms-project.mwb in Mysql Workbench
+* Go to  ` Database->Forword Engineering `, select the local instance and continue to end of process
+* Now your Database is created and run **data.sql** in that database
 
 ### Start running the project from **index.jsp** file
