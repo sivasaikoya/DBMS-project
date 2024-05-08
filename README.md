@@ -49,7 +49,7 @@ Download javax.mail jar <br>
 
 * Copy all jar file into `src->main->webapp->WEB_INF->lib` folder .
 
-### Creating Database in Mysql Workbench
+## Creating Database in Mysql Workbench
 * Open model **dbms-project.mwb** in Mysql Workbench
 * Go to  ` Database->Forword Engineering `, select the local instance and continue to end of process
 * Now your Database is created and run **data.sql** in that database
