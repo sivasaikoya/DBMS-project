@@ -23,7 +23,7 @@
 * Create a package in _src/main/java_ as com.dbms.deleting and paste all file from deleting folder.
 * Create a package in _src/main/java_ as com.dbms.updating and paste all file from updating folder.
 * Create a package in _src/main/java_ as com.dbms.inserting and paste all file from inserting folder.
-* Copy the pom.xml into ` src->main->webapp->WEB_INF `
+* Copy the web.xml into ` src->main->webapp->WEB_INF ` and add your mail and password in place of _your mail_ and _your password_.
 
 ### Installation of JAR files
 
