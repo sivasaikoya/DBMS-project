@@ -17,6 +17,7 @@
 
 ### Copying Files
 **If you have MAC you can directly import DBMS.war file into eclipse . If it does'nt works follow below steps**
+NOTE:Copy the web.xml into ` src->main->webapp->WEB_INF ` and add your mail and password in place of _your mail_ and _your password_.
 * Copy all files from web files into ` src->main->webapp  `.
 * Create a package in _src/main/java_ as com.dbms.getting and paste all file from getting folder.
 * Create a package in _src/main/java_ as com.dbms.controllers and paste all file from controllers folder.
@@ -49,7 +50,7 @@ Download javax.mail jar <br>
 * Copy all jar file into `src->main->webapp->WEB_INF->lib` folder .
 
 ### Creating Database in Mysql Workbench
-* Open model dbms-project.mwb in Mysql Workbench
+* Open model **dbms-project.mwb** in Mysql Workbench
 * Go to  ` Database->Forword Engineering `, select the local instance and continue to end of process
 * Now your Database is created and run **data.sql** in that database
 
