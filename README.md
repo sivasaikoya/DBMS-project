@@ -16,7 +16,7 @@
 * MySQL Workbench.
 
 ### Copying Files
-** If you have MAC you can directly import DBMS.war file into eclipse . If it does'nt works follow below steps**
+** If you have MAC you can directly import DBMS.war file into eclipse . If it does'nt works follow below steps **
 * Copy all files from web files into ` src->main->webapp  `.
 * Create a package in _src/main/java_ as com.dbms.getting and paste all file from getting folder.
 * Create a package in _src/main/java_ as com.dbms.controllers and paste all file from controllers folder.
