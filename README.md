@@ -2,7 +2,7 @@
 ### Done By
 * A.Srinivas
 * Ch.Uday Kiran
-* D.jagadeshwar rao
+* D.Jagadeshwar rao
 * K.Siva Sai
 * L.Hari Kiran
 
